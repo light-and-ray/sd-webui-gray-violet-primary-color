@@ -1,0 +1,13 @@
+:root, .dark {
+    --primary-50: #eaddf5 !important;
+    --primary-100: #d4c0e6 !important;
+    --primary-200: #af98c3 !important;
+    --primary-300: #9f88b3 !important;
+    --primary-400: #8f79a2 !important;
+    --primary-500: #7f6a91 !important;
+    --primary-600: #6f5d7f !important;
+    --primary-700: #5b4b69 !important;
+    --primary-800: #483b53 !important;
+    --primary-900: #3a3043 !important;
+    --primary-950: #2e2636 !important;
+}
