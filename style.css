@@ -11,3 +11,8 @@
     --primary-900: #3a3043 !important;
     --primary-950: #2e2636 !important;
 }
+
+::selection {
+  color: white;
+  background: gray;
+}
