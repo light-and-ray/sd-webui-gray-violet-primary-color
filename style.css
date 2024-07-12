@@ -10,6 +10,9 @@
     --primary-800: #483b53 !important;
     --primary-900: #3a3043 !important;
     --primary-950: #2e2636 !important;
+
+    --ctp-accent: #6f5d7f !important;
+    color-scheme: unset !important;
 }
 
 ::selection {
